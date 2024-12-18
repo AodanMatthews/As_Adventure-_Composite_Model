@@ -1,0 +1,5 @@
+unique_name: Reporting Unit Price Discount
+object_type: metric_calc
+label: Reporting Unit Price Discount
+expression: '[Measures].[Unit Price Discount]*[Measures].[Average Rate]'
+is_hidden: false

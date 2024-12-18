@@ -1,0 +1,6 @@
+unique_name: Unit Price Discount
+object_type: metric
+label: Unit Price Discount
+calculation_method: average
+column: unitpricediscountpct
+dataset: factinternetsales

@@ -1,0 +1,5 @@
+unique_name: Reporting Extended Amount
+object_type: metric_calc
+label: Reporting Extended Amount
+expression: '[Measures].[Extended Amount_sum]*[Measures].[Average Rate]'
+is_hidden: false

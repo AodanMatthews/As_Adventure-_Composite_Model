@@ -1,0 +1,5 @@
+unique_name: Reporting Tax Amount
+object_type: metric_calc
+label: Reporting Tax Amount
+expression: '[Measures].[Tax Amount_sum]*[Measures].[Average Rate]'
+is_hidden: false

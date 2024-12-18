@@ -1,0 +1,5 @@
+unique_name: Reporting Product Standard Cost
+object_type: metric_calc
+label: Reporting Product Standard Cost
+expression: '[Measures].[Total Product Cost_sum]*[Measures].[Average Rate]'
+is_hidden: false

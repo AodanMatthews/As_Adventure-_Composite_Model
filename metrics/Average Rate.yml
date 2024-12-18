@@ -1,0 +1,6 @@
+unique_name: Average Rate
+object_type: metric
+label: Average Rate
+calculation_method: average
+column: avaragerate
+dataset: factcurrencyrate_conversion
